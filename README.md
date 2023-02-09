@@ -1,2 +1,2 @@
 # MPA-MLF
-Machin learning exercises
+Machine learning exercises
